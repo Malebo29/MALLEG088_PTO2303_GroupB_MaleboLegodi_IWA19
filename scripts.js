@@ -13,7 +13,6 @@ const handleSearchSubmit = (event) => {
     event.preventDefault();
     const formData = new FormData(event.target)
     const filters = Object.fromEntries(formData)
-    console.log(filters)
     const searchResults = []
     
     for (const book of books) {
