@@ -29,25 +29,23 @@ The following languages, frameworks and APIs were used:
   * CSS
   * Javascript
 
-## Errors and Fixes:
-
 ## Code Snippets and Screenshots
 
 When visiting this URL, the user is presented with a list of 36 book previews with the Day theme set by default. Using the ’Show more’ button at end of the 36 book previews, users can load more books. Each book is displayed with an associated image, title, and author.
 
-### insert image
+![alt](images/page1Screens.jpg)
 
 Clicking on each book opens up its details in an overlay. On the overlay, users can see the title, author, and published date, and a summary of the book.
 
-### insert image
+![alt](images/bookCardClicked.jpg)
 
 Clicking on the search icon opens up the Filter overlay. On the overlay, ‘All authors’ and ‘All genres’ are selected by default and users can use text phrases or a key search term to narrow their search for books. They can also select an author or genre from their respective filter fields to search for books by either an author or genre.
 
-### insert image
+![alt](images/filterOverlay.jpg)
 
 Clicking on the user (theme) icon opens up the Settings overlay with the Day theme selected by default. On the overlay, users can change the theme of the app between Night (dark) and Day (light) modes.
 
-### insert image
+![alt](images/themeOverlay.jpg)
 
 ## Conclusion
 
