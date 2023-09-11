@@ -14,7 +14,7 @@ export const night = {
 }
 
 const listFragment = document.createDocumentFragment();
-const extractedBooks = books.slice(0, 36);
+const extractedBooks = books.slice(0, BOOKS_PER_PAGE);
 
 /**
  * Takes a book as an object literal and converts it a HTML element that can 

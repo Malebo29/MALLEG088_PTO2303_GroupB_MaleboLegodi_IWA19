@@ -24,7 +24,7 @@ Users should be able to scroll through the displayed list of book previews. Each
 Description/Overview // GitHub Link // Technologies Used // Errors and Fixes // Code Snippets and Screenshots
 
 ## Technologies
-The following languages, frameworks and APIs were used:
+The following languages were used:
   * HTML
   * CSS
   * Javascript
